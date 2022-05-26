@@ -1,7 +1,7 @@
 # First Contributions
 A repository to help guide people through making their first contribution to a GitHub project
 
-## Fork this repository
+## Ady has forked this repository
 
 <img align="right" width="300" src="images/fork.png" alt="fork this repository" />  
 
