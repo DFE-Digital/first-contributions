@@ -20,6 +20,7 @@ Click 'main' type in the name of your new branch i.e. 'add-to-contributors' then
 
 Now open `Contributors.md` by clicking on it in the file list, then click the edit button and add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between.
 
+### Add a message to the commit
 Change the commit message to 'Add <your name> to contributors list' and commit you changes
 
 <br/><br/>
