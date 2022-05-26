@@ -3,6 +3,7 @@
 - [Lewis Wilson](https://github.com/lwlsns)
 - [Megan Rowlands](https://github.com/meganrowlands)
 - [Alex Rippon](https://github.com/alexrippon)
+- [Mickey Mouse](https://github.com/MickeyMouse)
 - [Louise Nangla](https://github.com/louisenangla)
 - [Olly](https://github.com/BigGubOlly)
 - [Jaskiran Kang](https://github.com/JaskiranKang)
