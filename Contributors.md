@@ -7,4 +7,6 @@
 - [Olly](https://github.com/BigGubOlly)
 - [Jaskiran Kang](https://github.com/JaskiranKang)
 - [Dominique Sherwood](https://github.com/DominiqueSherwood1)
+- [Adam](https://github.com/misterayes)
 - [Tom Bates](https://github.com/TomBates1234)
+
