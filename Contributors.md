@@ -7,6 +7,7 @@
 - [Olly](https://github.com/BigGubOlly)
 - [Jaskiran Kang](https://github.com/JaskiranKang)
 - [Dominique Sherwood](https://github.com/DominiqueSherwood1)
+- [Judy](https://github.com/jhtperry)
 - [Tom Bates](https://github.com/TomBates1234)
 - [Karen Garland](https://github.com/KarenGarland1)
 - [Amber Nikolich](https://github.com/AmberNiko)
