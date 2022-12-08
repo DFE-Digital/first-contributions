@@ -10,4 +10,4 @@
 - [Tom Bates](https://github.com/TomBates1234)
 - [Karen Garland](https://github.com/KarenGarland1)
 - [Amber Nikolich](https://github.com/AmberNiko)
-
+- [Laura Heatherley](https://github.com/laura-biscuits)
