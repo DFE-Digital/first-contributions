@@ -10,4 +10,5 @@
 - [Tom Bates](https://github.com/TomBates1234)
 - [Karen Garland](https://github.com/KarenGarland1)
 - [Amber Nikolich](https://github.com/AmberNiko)
+- [Phil Spray](https://github.com/philspray)
 
