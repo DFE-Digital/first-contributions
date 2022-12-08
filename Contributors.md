@@ -11,3 +11,5 @@
 - [Karen Garland](https://github.com/KarenGarland1)
 - [Amber Nikolich](https://github.com/AmberNiko)
 - [Laura Heatherley](https://github.com/laura-biscuits)
+- [Claire Jones](https://github.com/ClaireJones)
+
